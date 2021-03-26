@@ -58,11 +58,11 @@ nav {
 .nav-links li a {
   color: rgba(255, 255, 255, 0.473);
   text-decoration: none;
-  padding-right: 7px;
 }
 
 .nav-links li i {
   color: rgba(255, 255, 255, 0.733);
+  padding-left: 5px;
 }
 
 .nav-links li:hover a {
